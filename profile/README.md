@@ -19,8 +19,10 @@ All of our projects are guided by a strict, non-negotiable set of principles def
 
 ## Our Projects
 
--   **[TwoAuth](https://github.com/ObscuritySecurity/TwoAuth)**: A completely offline, zero-tracking, open-source 2FA authenticator with advanced security features.
--   **[CrytoTool](https://github.com/ObscuritySecurity/CrytoTool)**: A next-generation, end-to-end encrypted file manager and communication suite built on a zero-knowledge architecture.
+-   **[TwoAuth](https://github.com/ObscuritySecurity/TwoAuth)**: TwoAuth is a two-factor authentication (2FA) application built on a simple and radical idea: respect for the user.
+
+
+-   **[CrytoTool](https://github.com/ObscuritySecurity/CrytoTool)**: A four-in-one, end-to-end encrypted file manager, gallery, music player, and document viewer where your privacy comes first
 
 ## How to Contribute
 
