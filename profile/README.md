@@ -7,7 +7,7 @@ Our mission is to provide powerful, intuitive, and secure tools that put control
 
 ## Our Core Principles
 
-All of our projects are guided by a strict, non-negotiable set of principles defined in **https://github.com/ObscuritySecurity/protocol-3305**. These include:
+All of our projects are guided by a strict, non-negotiable set of principles defined in **[protocol-3305](
 
 -   🔐 **Zero Knowledge & Zero Data Collection**: We are architecturally blind to your data. We cannot access, sell, or be forced to surrender information we do not possess.
 -   🛡️ **Security by Default**: Our applications are delivered with the highest security settings enabled from the start.
