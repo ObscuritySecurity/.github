@@ -1,6 +1,3 @@
-# ObscuritySecurity
-
-### Security by Design, Privacy as a Standard.
 
 Welcome to the official GitHub organization for **ObscuritySecurity**. We are a collective dedicated to building open-source software that empowers people to reclaim their digital freedom.
 
