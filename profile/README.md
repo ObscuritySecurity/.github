@@ -1,45 +1,34 @@
-# ObscuritateSecuritate
+# ObscuritySecurity
 
-### Securitate prin design, confidenţialitate ca standard.
+### Security by Design, Privacy as a Standard.
 
-Bine ai venit la organizația oficială GitHub pentru **ObscuritateSecurity**. Sunt un colectiv dedicat construcţiilor de software open-source care dă putere oamenilor să-şi revendice libertatea digitală.
+Welcome to the official GitHub organization for **ObscuritySecurity**. We are a collective dedicated to building open-source software that empowers people to reclaim their digital freedom.
 
-## Misiunea noastră
+## Our Mission
 
-Misiunea noastră este să oferim instrumente puternice, intuitive și sigur care să readucă controlul acolo unde sunt locul: în mâinile individului. Credem că confidenţialitatea este un drept fundamental, nu o caracteristică şi ne construcţie software-ul pe această bază neclintită.
+Our mission is to provide powerful, intuitive, and secure tools that put control back where it belongs: in the hands of the individual. We believe that privacy is a fundamental right, not a feature, and we build our software on this unwavering foundation.
 
-## Principiul nostru de bază
+## Our Core Principles
 
-Toate proiectele noastre sunt ghidate de un set strict, nenegociabil de principii definit în **[Protocol 3305](https://www.obscuritysecurity.com/protocol-3305)**. . . . Acestea includ:
+All of our projects are guided by a strict, non-negotiable set of principles defined in **[Protocol 3305](https://www.obscuritysecurity.com/protocol-3305)**. These include:
 
-- 🔐 **Zero cunoștințe și zero colectări de dată**: Sunt orbi din punct de vedere arhitectural la datele dvs. Nu putem access, vinde sau fi forte să predăm informatii pe care nu le detinem.
-- ?? ?? **Securitate implicită**: Aplicațiile noastre sunt livrate cu cele mai multe setări de securitate activă în timp de la început.
-- ?? ?? ?? ? **Open Source și verificabil**: Operam pe un model „verifică, nu ai încredere“. Codul nostru este deschis pentru audit public, permițând oricui să confirme afacerile noastre de securitate și confidențialitate.
-- ?? ?? **Fără control centralizat**: Instrumentele noastre sunt concepte pentru o funcție offline și fără a se baza pe servere centralizate care pot fi compromis sau controlate.
+-   🔐 **Zero Knowledge & Zero Data Collection**: We are architecturally blind to your data. We cannot access, sell, or be forced to surrender information we do not possess.
+-   🛡️ **Security by Default**: Our applications are delivered with the highest security settings enabled from the start.
+-   👁️‍🗨️ **Open Source & Verifiable**: We operate on a "verify, don't trust" model. Our code is open for public audit, allowing anyone to confirm our security and privacy claims.
+-   ⛓️ **No Centralized Control**: Our tools are designed to function offline and without reliance on centralized servers that can be compromised or controlled.
 
-## Proiectele noastre
+## Our Projects
 
--   **[TwoAuth](https://github.com/ObscuritySecurity/TwoAuth)**: Un autentificator 2 FA complet offline, zero-tracking, open-source, cu caracteristici avansate de securitate.
--   **[CrytoTool](https://github.com/ObscuritySecurity/CrytoTool)**: Un manager de fișiere criptat de ultimă generație, end-to-end și o costumare de comunicare construcție pe o arhitectură cu cunoștințe zero.
+-   **[TwoAuth](https://github.com/ObscuritySecurity/TwoAuth)**: A completely offline, zero-tracking, open-source 2FA authenticator with advanced security features.
+-   **[CrytoTool](https://github.com/ObscuritySecurity/CrytoTool)**: A next-generation, end-to-end encrypted file manager and communication suite built on a zero-knowledge architecture.
 
-## Cum să contribui
+## How to Contribute
 
-Sunt un proiect open-source condus de comunitate. Fie că este vorba de contribuţii la cod, auditurile de securitate sau moderată comunităţii, implicarea ta este vitală.
+We are an open-source project driven by the community. Whether it's through code contributions, security audits, or community moderation, your involvement is vital.
 
--   **Începeţi o discuţie**: Aveţi o intrare tehnică sau o solicitare de caracteristică? Alăturați-vă nostru [GitHub Discussions](https://github.com/orgs/ObscuritySecurity/discussions).
--   **Contribuie Cod**: Vezi `CONTRIBUȚIE.md` fișier în depozitele noastre de proiecte pentru a începe.
+-   **Start a Discussion**: Have a technical question or a feature request? Join our [GitHub Discussions](https://github.com/orgs/ObscuritySecurity/discussions).
+-   **Contribute Code**: Check out the `CONTRIBUTING.md` file in our project repositories to get started.
 
 ---
 
-**Alăturați-vă nouă pentru a construi un viitor digital mai privat și mai sigur.**
-
-<!--
-
-**Iată câteva idei pentru a-ncepea:**
-
- ?? ?? ?? ? O scurtă introducere - despre ce este organizaţia ta?
-🌈 Ghid de contribuție - cum se poate implica comunitatea?
- ?? ?? ?? Resurse utile - unde vă puteţi comunica documentele? Mai este ceva ce comunitatea ar trebui să știe?
-🍿 Fapte distractive - ce mănâncă echipa ta la micul dejun?
-🧙 Amintiţi-vă, puteţi face lucruri puternice cu puterea [Markdown] (https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Join us in building a more private and secure digital future.**
