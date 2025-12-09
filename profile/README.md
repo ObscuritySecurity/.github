@@ -1,4 +1,5 @@
-![Uploading 1000008843.png…]()
+<img width="1536" height="1024" alt="1000008844" src="https://github.com/user-attachments/assets/2fb34152-3c8d-4e49-8fad-48516b96b078" />
+
 
 
 Welcome to the official GitHub organization for **ObscuritySecurity**. We are a collective dedicated to building open-source software that empowers people to reclaim their digital freedom.
