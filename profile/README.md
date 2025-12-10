@@ -12,10 +12,17 @@ Our mission is to provide powerful, intuitive, and secure tools that put control
 
 All of our projects are guided by a strict, non-negotiable set of principles defined in **[protocol-3305](https://github.com/ObscuritySecurity/protocol-3305)**
 
--    **Zero Knowledge & Zero Data Collection**: We are architecturally blind to your data. We cannot access, sell, or be forced to surrender information we do not possess.
--    **Security by Default**: Our applications are delivered with the highest security settings enabled from the start.
--    **Open Source & Verifiable**: We operate on a "verify, don't trust" model. Our code is open for public audit, allowing anyone to confirm our security and privacy claims.
--    **No Centralized Control**: Our tools are designed to function offline and without reliance on centralized servers that can be compromised or controlled.
+-    1: Privacy by Design
+Privacy must be integrated into the fundamental architecture of any compliant system. Each application shall be designed from the ground up to minimize data collection and maximize the protection of people
+
+-    Security by Default
+Compliant solutions must be delivered with the highest security settings enabled by default. People should not need to be experts to be protected; the protocol ensures that safety is the standard state, not an option.
+
+-    3: Zero Trust
+All systems must operate under the premise "never trust, always verify." The architecture shall not implicitly trust any actor, internal or external. Access to resources must be granted granularly and be continuously validated
+
+-    4: Zero Knowledge
+Compliant applications must be engineered so the service provider has zero knowledge of the content people create, store, or transmit. All person-generated content must be end-to-end encrypted, with decryption keys accessible only to the person, not the server.
 
 ## Our Projects
 
