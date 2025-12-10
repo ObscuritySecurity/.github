@@ -12,7 +12,6 @@ Our mission is to provide powerful, intuitive, and secure tools that put control
 
 All of our projects are guided by a strict, non-negotiable set of principles defined in **[protocol-3305](https://github.com/ObscuritySecurity/protocol-3305)**
 
--    # Our Core Principles (Protocol 3305)
 
 ## 1. Privacy by Design  
 **We** embed privacy directly into the foundational architecture of every system we build. Each application is conceived from the ground up to **minimise data collection** and to **maximise the protection of people**. No unnecessary personal information is ever gathered, stored, or processed beyond what is strictly required for the service to function.
