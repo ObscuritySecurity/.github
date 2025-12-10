@@ -12,17 +12,19 @@ Our mission is to provide powerful, intuitive, and secure tools that put control
 
 All of our projects are guided by a strict, non-negotiable set of principles defined in **[protocol-3305](https://github.com/ObscuritySecurity/protocol-3305)**
 
--    1: Privacy by Design
-Privacy must be integrated into the fundamental architecture of any compliant system. Each application shall be designed from the ground up to minimize data collection and maximize the protection of people
+-    # Our Core Principles (Protocol 3305)
 
--    Security by Default
-Compliant solutions must be delivered with the highest security settings enabled by default. People should not need to be experts to be protected; the protocol ensures that safety is the standard state, not an option.
+## 1. Privacy by Design  
+**We** embed privacy directly into the foundational architecture of every system we build. Each application is conceived from the ground up to **minimise data collection** and to **maximise the protection of people**. No unnecessary personal information is ever gathered, stored, or processed beyond what is strictly required for the service to function.
 
--    3: Zero Trust
-All systems must operate under the premise "never trust, always verify." The architecture shall not implicitly trust any actor, internal or external. Access to resources must be granted granularly and be continuously validated
+## 2. Security by Default  
+**We** deliver solutions with the highest security settings enabled out‑of‑the‑box. People should not need expert knowledge to stay safe; **security is the default state**, not an optional add‑on. All cryptographic primitives, key‑derivation parameters, and access controls are pre‑configured to meet strong security standards before any configuration is exposed to the public.
 
--    4: Zero Knowledge
-Compliant applications must be engineered so the service provider has zero knowledge of the content people create, store, or transmit. All person-generated content must be end-to-end encrypted, with decryption keys accessible only to the person, not the server.
+## 3. Zero Trust  
+**We** operate under the principle “never trust, always verify.” The architecture never assumes implicit trust for any actor—whether internal or external. Access to every resource is **granted on a granular basis** and **continuously validated** through authentication, authorization checks, and attestation mechanisms. Every request is treated as potentially hostile until proven otherwise.
+
+## 4. Zero Knowledge  
+**We** engineer our applications so that the service provider possesses **zero knowledge** of the content people create, store, or transmit. All person‑generated data is **end‑to‑end encrypted**, and decryption keys reside solely in the people’s devices, never on the server. Consequently, even the operators of the service cannot read, modify, or infer any protected information.
 
 ## Our Projects
 
