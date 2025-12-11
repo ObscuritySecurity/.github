@@ -12,11 +12,10 @@ Our mission is to provide powerful, intuitive, and secure tools that put control
 
 All of our projects are guided by a strict, non-negotiable set of principles defined in **[protocol-3305](https://github.com/ObscuritySecurity/protocol-3305)**
 
-
-| **1.Privacy by Design** | **We never collect any personal data.** All of our apps are built from the ground up so that nothing that could identify you is ever gathered, stored, or processed. |
-| **2.Security by Default** | **Our tools come with the strongest security settings already turned on.** You don’t need to be a security expert to stay safe – security is the default, not an optional extra. |
-| **3.Zero Trust** | **We assume no one is trustworthy until proven otherwise.** Every request for a resource is carefully checked, with tiny, specific permissions that are constantly re‑checked. In short, every interaction is treated as potentially risky until it’s proven safe. |
-| **4.No Servers** | **We run completely without servers.** All processing, encryption, and data storage happen on your device, so there is no central infrastructure that could be compromised or that could see your data. |
+-    **Zero Knowledge & Zero Data Collection**: We are architecturally blind to your data. We cannot access, sell, or be forced to surrender information we do not possess.
+-    **Security by Default**: Our applications are delivered with the highest security settings enabled from the start.
+-    **Open Source & Verifiable**: We operate on a "verify, don't trust" model. Our code is open for public audit, allowing anyone to confirm our security and privacy claims.
+-    **No Centralized Control**: Our tools are designed to function offline and without reliance on centralized servers that can be compromised or controlled.
 
 ## Our Projects
 
